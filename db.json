@@ -1,0 +1,53 @@
+{
+  "users": [
+    {
+      "firstName": "Jo",
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "firstName": "Andrew",
+      "lastName": "Fuller",
+      "email": "andrew@gmail.com",
+      "age": 40,
+      "companyId": "2"
+    },
+    {
+      "id": "3",
+      "firstName": "Anne",
+      "lastName": "Doodsworth",
+      "email": "anne@gmail.com",
+      "age": 34,
+      "companyId": "3"
+    },
+    {
+      "id": "4",
+      "firstName": "Robert",
+      "lastName": "King",
+      "email": "rober@gmail.com",
+      "age": 45,
+      "companyId": "4"
+    },
+    {
+      "name": "sevvandhi",
+      "id": "0HZOeHu"
+    }
+  ],
+  "companies": [
+    {
+      "id": 1,
+      "Name": "Apple",
+      "description": "Apple Inc. is an American multinational technology company headquartered in Cupertino, California, that designs, develops, and sells consumer electronics, computer software, and online services"
+    },
+    {
+      "id": 2,
+      "Name": "Microsoft",
+      "description": "Microsoft Corporation is an American multinational technology company with headquarters in Redmond, Washington. It develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services"
+    },
+    {
+      "id": 3,
+      "Name": "Google",
+      "description": "Google LLC is an American multinational technology company that specializes in Internet-related services and products, which include online advertising technologies, a search engine, cloud computing, software, and hardware"
+    }
+  ]
+}
